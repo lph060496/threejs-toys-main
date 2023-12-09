@@ -1,4 +1,3 @@
-# threejs-toys-main
 # ✨ ThreeJS Toys - Made with 💙
 
 [![NPM Package][npm]][npm-url]
