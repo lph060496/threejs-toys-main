@@ -41,7 +41,7 @@ npm install three threejs-toys
 
 ## Toys
 
-### Fishes - https://codepen.io/soju22/full/qBxVXmb
+### Fishes - https://codepen.io/hy-luong/pen/PoVLJod
 
 <img src="https://github.com/klevron/threejs-toys/blob/main/screenshots/bg-fishes.jpg?raw=true" style="width:30%;" />
 
@@ -72,8 +72,7 @@ fishesBackground({
 })
 ```
 
-### Butterflies - https://codepen.io/soju22/full/dydVGEd
-
+### Butterflies - https://codepen.io/hy-luong/pen/ZEwPXGb
 <img src="https://github.com/klevron/threejs-toys/blob/main/screenshots/bg-butterflies.jpg?raw=true" style="width:30%;" />
 
 ```js
@@ -115,7 +114,7 @@ butterfliesBackground({
 })
 ```
 
-### Particles Cursor - https://codepen.io/soju22/full/KKQaGrE
+### Particles Cursor - https://codepen.io/hy-luong/pen/OJdqxVa
 
 <img src="https://github.com/klevron/threejs-toys/blob/main/screenshots/particles-cursor.jpg?raw=true" style="width:30%;" />
 
@@ -139,8 +138,7 @@ particlesCursor({
 })
 ```
 
-### Neon Cursor - https://codepen.io/soju22/full/wvyBorP
-
+### Neon Cursor - https://codepen.io/hy-luong/pen/LYqazpj
 <img src="https://github.com/klevron/threejs-toys/blob/main/screenshots/neon-cursor.jpg?raw=true" style="width:30%;" />
 
 ```js
@@ -161,8 +159,7 @@ neonCursor({
 })
 ```
 
-### Noisy Lines- https://codepen.io/soju22/full/YzePgPV
-
+### Noisy Lines- https://codepen.io/hy-luong/pen/rNPRGxL
 <img src="https://github.com/klevron/threejs-toys/blob/main/screenshots/bg-noisy-lines.jpg?raw=true" style="width:30%;" />
 
 ```js
